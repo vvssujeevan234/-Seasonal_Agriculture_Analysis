@@ -6,6 +6,7 @@ This project analyzes seasonal agricultural performance using Python, Pandas, Nu
 ## Files
 - agriculture_analysis.ipynb - Data analysis notebook
 - seasonal_agriculture_performance_dataset.csv - Agricultural dataset
+- vios_major project ppt -click on view raw 
 
 ## Project
 Seasonal Agriculture Performance Analysis
